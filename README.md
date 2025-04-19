@@ -8,6 +8,8 @@ Features
 - Display all saved contacts
 
 Usage
+1. Clone the repository: git clone https://github.com/hiddendestroyer1945/contact-saver.git
+2. Navigate to the repository directory: cd leet
 1. Run the program using Python3 (e.g., python3 contact_saver.py)
 2. Choose an option from the menu:
     - Add Contact: Add a new contact with name, place, email, and mobile number
