@@ -18,8 +18,8 @@ Usage:
     - Exit: Quit the program
 
 Requirements:
-Debian based Linux
-Python 3.x
+Debian based Linux,
+Python 3.x,
 git
 
 How it works:
@@ -32,8 +32,8 @@ Supported:
 Debian based linux
 
 Requirements:
-Python 3.x
-git
+Python 3.x,
+git,
 python3-pip
 
 Installation:
