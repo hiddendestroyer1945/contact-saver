@@ -37,6 +37,8 @@ git,
 python3-pip
 
 Installation:
+sudo apt update
+sudo apt install git python3 python3-pip
 clone the repository using git clone https://github.com/hiddendestroyer1945/contact-saver.git
 Navigate to repository dicrectory cd contact-saver
 Run the script using(contact saving in linux desktops) python3 contact-saver.py
