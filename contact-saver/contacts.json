@@ -1,0 +1,12 @@
+{
+    "test2": {
+        "place": "testplace",
+        "email": "",
+        "mobile": "00000"
+    },
+    "test1": {
+        "place": "test",
+        "email": "test@testmail.com",
+        "mobile": "0000"
+    }
+}
