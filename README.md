@@ -18,9 +18,9 @@ Usage:
     - Exit: Quit the program
 
 Requirements:
--Debian based Linux
-- Python 3.x
-- git
+Debian based Linux
+Python 3.x
+git
 
 How it works:
 1. The program uses a dictionary to store contacts, where each contact is a dictionary with keys for place, email, and mobile number.
@@ -29,12 +29,12 @@ How it works:
 4. The display_contacts method displays all saved contacts.
 
 Supported:
-   -Debian based linux
+Debian based linux
 
 Requirements:
-   -Python 3.x
-   -git
-   -python3-pip
+Python 3.x
+git
+python3-pip
 
 Installation:
 clone the repository using git clone https://github.com/hiddendestroyer1945/contact-saver.git
